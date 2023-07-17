@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1689473415 "c:/projects/Moogle!/moogle-main/Informe/Informe.tex" "Informe.pdf" "Informe" 1689473417 0
+["pdflatex"] 1689627047 "c:/Users/Claudia/Documents/GitHub/moogle-project/Informe/Informe.tex" "Informe.pdf" "Informe" 1689627048 0
   "C:/Users/Claudia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1689457692 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Claudia/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1689397898 23179904 20c91ffe413cab913e49f659928c9b4f ""
   "C:/Users/Claudia/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -38,9 +38,9 @@
   "C:/Users/Claudia/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/Claudia/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Claudia/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1680182075 29768 5600b3a98028e2e01b60e7f98fbf4b9c ""
-  "Informe.aux" 1689473416 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
-  "Informe.tex" 1689473415 8833 78d683b97deabb715ff3ed87bbf24e94 ""
-  "c:/projects/Moogle!/moogle-main/Informe/Informe.tex" 1689473415 8833 78d683b97deabb715ff3ed87bbf24e94 ""
+  "Informe.aux" 1689627048 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
+  "Informe.tex" 1689627046 8873 07c3007d77f6190036aac3059ef26b12 ""
+  "c:/Users/Claudia/Documents/GitHub/moogle-project/Informe/Informe.tex" 1689627046 8873 07c3007d77f6190036aac3059ef26b12 ""
   "fig 1.1.png" 1689442191 5101 2ffc8888d1e85aad49508a912db47416 ""
   "fig 1.10.png" 1683614762 31527 48d65d3b8846e965a2b107509dc3ced8 ""
   "fig 1.2.png" 1683591774 50081 85282514cb988e339006053cd9ca03ac ""

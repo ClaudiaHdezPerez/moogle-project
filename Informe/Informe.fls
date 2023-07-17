@@ -1,6 +1,6 @@
-PWD c:\projects\Moogle!\moogle-main\Informe
+PWD c:\Users\Claudia\Documents\GitHub\moogle-project\Informe
 INPUT C:\Users\Claudia\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\projects\Moogle!\moogle-main\Informe\Informe.tex
+INPUT c:\Users\Claudia\Documents\GitHub\moogle-project\Informe\Informe.tex
 OUTPUT Informe.log
 INPUT C:\Users\Claudia\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Claudia\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
