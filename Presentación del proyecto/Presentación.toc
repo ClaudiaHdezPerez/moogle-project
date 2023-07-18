@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{¿Qué es el Moogle!?}{3}{0}{1}
+\beamer@sectionintoc {2}{Estructura de clases}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Process Documents}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Documents}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Matrix}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{Moogle}{15}{0}{2}
+\beamer@sectionintoc {3}{Interfaz grafica}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{Adicionales}{18}{0}{3}
+\beamer@sectionintoc {4}{Enlaces}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Ver codigo}{23}{0}{4}
