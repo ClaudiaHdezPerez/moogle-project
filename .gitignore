@@ -467,8 +467,8 @@ fig 1.9.png
 fig 1.10.png
 indent.log
 Informe.aux
-Informe.fdb_latexmk 
-Informe.fls 
+Informe.fdb_latexmk
+Informe.fls
 Informe.log
 logoMATCOM.png 
 Informe.synctex.gz
@@ -486,3 +486,7 @@ Presentación.out
 Presentación.toc
 Presentación.snm
 Presentación.synctex.gz
+introducción.aux 
+Enlaces.aux
+Estructura de clases.aux
+Interfaz grafica.aux
