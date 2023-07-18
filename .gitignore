@@ -501,13 +501,13 @@ Content
 # Estructura de clases.aux
 # Interfaz grafica.aux
 
-!.aux
-!.png
-!.toc
-!.fdb_latexmk
-!.fls
-!.log
-!.nav
-!.synctex.gz
-!.snm
-!.out
+*.aux
+*.png
+*.toc
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.synctex.gz
+*.snm
+*.out
