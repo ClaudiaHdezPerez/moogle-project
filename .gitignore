@@ -455,48 +455,59 @@ $RECYCLE.BIN/
 
 Content 
 
-fig 1.1.png 
-fig 1.2.png 
-fig 1.3.png 
-fig 1.4.png 
-fig 1.5.png
-fig 1.6.png
-fig 1.7.png
-fig 1.8.png 
-fig 1.9.png
-fig 1.10.png
-indent.log
-Informe.aux
-Informe.fdb_latexmk
-Informe.fls
-Informe.log
-logoMATCOM.png
-Informe.synctex.gz
+# fig 1.1.png 
+# fig 1.2.png 
+# fig 1.3.png 
+# fig 1.4.png 
+# fig 1.5.png
+# fig 1.6.png
+# fig 1.7.png
+# fig 1.8.png 
+# fig 1.9.png
+# fig 1.10.png
+# indent.log
+# Informe.aux
+# Informe.fdb_latexmk
+# Informe.fls
+# Informe.log
+# logoMATCOM.png
+# Informe.synctex.gz
 
-fig 1.1.png 
-fig 1.2.png 
-fig 1.3.png 
-fig 1.4.png 
-fig 1.5.png
-fig 1.6.png
-fig 1.7.png
-fig 1.8.png 
-fig 1.9.png
-fig 1.10.png
-fig 1.10 (2).png
-fig 1.10 (3).png
-fig 1.10 (4).png
-fig 1.10 (5).png
-Presentación.aux
-Presentación.fdb_latexmk
-Presentación.fls
-Presentación.log
-Presentación.nav
-Presentación.out
-Presentación.toc
-Presentación.snm
-Presentación.synctex.gz
-introducción.aux 
-Enlaces.aux
-Estructura de clases.aux
-Interfaz grafica.aux
+# fig 1.1.png 
+# fig 1.2.png 
+# fig 1.3.png 
+# fig 1.4.png 
+# fig 1.5.png
+# fig 1.6.png
+# fig 1.7.png
+# fig 1.8.png 
+# fig 1.9.png
+# fig 1.10.png
+# fig 1.10 (2).png
+# fig 1.10 (3).png
+# fig 1.10 (4).png
+# fig 1.10 (5).png
+# Presentación.aux
+# Presentación.fdb_latexmk
+# Presentación.fls
+# Presentación.log
+# Presentación.nav
+# Presentación.out
+# Presentación.toc
+# Presentación.snm
+# Presentación.synctex.gz
+# introducción.aux 
+# Enlaces.aux
+# Estructura de clases.aux
+# Interfaz grafica.aux
+
+*.aux
+*.png
+*.toc
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.synctex.gz
+*.snm
+*.out
