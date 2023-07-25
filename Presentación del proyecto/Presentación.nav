@@ -9,15 +9,49 @@
 \headcommand {\beamer@subsectionentry {0}{1}{1}{3}{¿Qué es el Moogle!?}}
 \headcommand {\slideentry {1}{1}{1}{3/5}{¿Qué es el Moogle!?}{0}}
 \headcommand {\beamer@framepages {3}{5}}
-\headcommand {\beamer@sectionpages {3}{7}}
-\headcommand {\beamer@subsectionpages {3}{7}}
-\headcommand {\sectionentry {2}{Enlaces}{8}{Enlaces}{0}}
-\headcommand {\beamer@subsectionpages {8}{7}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Ver codigo}}
-\headcommand {\slideentry {2}{1}{1}{8/8}{Ver codigo}{0}}
-\headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@partpages {1}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\beamer@sectionpages {8}{8}}
-\headcommand {\beamer@documentpages {8}}
-\headcommand {\gdef \inserttotalframenumber {4}}
+\headcommand {\beamer@sectionpages {3}{5}}
+\headcommand {\beamer@subsectionpages {3}{5}}
+\headcommand {\sectionentry {2}{Estructura de clases}{6}{Estructura de clases}{0}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{Process Documents}}
+\headcommand {\slideentry {2}{1}{1}{6/7}{Process Documents}{0}}
+\headcommand {\beamer@framepages {6}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Documents}}
+\headcommand {\slideentry {2}{2}{1}{8/9}{Documents}{0}}
+\headcommand {\beamer@framepages {8}{9}}
+\headcommand {\slideentry {2}{2}{2}{10/11}{Documents}{0}}
+\headcommand {\beamer@framepages {10}{11}}
+\headcommand {\beamer@subsectionpages {8}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{12}{Matrix}}
+\headcommand {\slideentry {2}{3}{1}{12/15}{Matrix}{0}}
+\headcommand {\beamer@framepages {12}{15}}
+\headcommand {\beamer@subsectionpages {12}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{16}{Moogle}}
+\headcommand {\slideentry {2}{4}{1}{16/17}{Moogle}{0}}
+\headcommand {\beamer@framepages {16}{17}}
+\headcommand {\slideentry {2}{4}{2}{18/18}{Moogle}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@sectionpages {6}{18}}
+\headcommand {\beamer@subsectionpages {16}{18}}
+\headcommand {\sectionentry {3}{Interfaz grafica}{19}{Interfaz grafica}{0}}
+\headcommand {\beamer@subsectionpages {19}{18}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{19}{Adicionales}}
+\headcommand {\slideentry {3}{1}{1}{19/20}{Adicionales}{0}}
+\headcommand {\beamer@framepages {19}{20}}
+\headcommand {\slideentry {3}{1}{2}{21/22}{Adicionales}{0}}
+\headcommand {\beamer@framepages {21}{22}}
+\headcommand {\slideentry {3}{1}{3}{23/23}{Adicionales}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@sectionpages {19}{23}}
+\headcommand {\beamer@subsectionpages {19}{23}}
+\headcommand {\sectionentry {4}{Enlaces}{24}{Enlaces}{0}}
+\headcommand {\beamer@subsectionpages {24}{23}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{24}{Ver codigo}}
+\headcommand {\slideentry {4}{1}{1}{24/24}{Ver codigo}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@partpages {1}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\beamer@sectionpages {24}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\gdef \inserttotalframenumber {13}}

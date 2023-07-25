@@ -9,27 +9,27 @@ do
 
     elif [ $op -eq 1 ] 
     then 
-    cd branch; bash run.sh; cd ..; clear;
+    cd Clases; bash run.sh; cd ..; clear;
 
     elif [ $op -eq 2 ]
     then
-    cd branch; bash report.sh; cd ..; clear;
+    cd Clases; bash report.sh; cd ..; clear;
 
     elif [ $op -eq 3 ]
     then
-    cd branch; bash slides.sh; cd ..; clear;
+    cd Clases; bash slides.sh; cd ..; clear;
 
     elif [ $op -eq 4 ]
     then
-    cd branch; bash show_report.sh; cd ..; clear;
+    cd Clases; bash show_report.sh; cd ..; clear;
 
     elif [ $op -eq 5 ]
     then
-    cd branch; bash show_slides.sh; cd ..; clear;
+    cd Clases; bash show_slides.sh; cd ..; clear;
 
     elif [ $op -eq 6 ]
     then
-    cd branch; bash clean.sh; cd ..; clear;
+    cd Clases; bash clean.sh; cd ..; clear;
 
     elif [ $op -eq 7 ]
     then
