@@ -1,8 +1,8 @@
 report() {
     cd ..
     cd ..
-    cd 'Informe'
-    pdflatex 'Informe'.tex 
+    cd Informe
+    pdflatex Informe.tex 
 }
 report
 

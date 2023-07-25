@@ -2,17 +2,17 @@ show_report() {
     ans=($1)
     cd ..
     cd ..
-    cd 'Informe'
+    cd Informe
     if [ ! -f Informe.pdf ]
     then
-    pdflatex 'Informe'.tex
+    pdflatex Informe.tex
     fi
 
     if [ $# -gt 0 ] 
     then
-    $ans 'Informe'.pdf
+    $ans Informe.pdf
     else
-    xdg-open 'Informe'.pdf
+    xdg-open Informe.pdf
     fi
 }
 

@@ -2,10 +2,10 @@ show_slides() {
     ans=($1)
     cd ..
     cd ..
-    cd 'Presentación del proyecto'
+    cd Presentación
     if [ ! -f Presentación.pdf ]
     then
-    pdflatex 'Presentación'.tex
+    pdflatex Presentación.tex
     fi
     
     if [ $# -gt 0 ] 

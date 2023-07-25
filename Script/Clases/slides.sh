@@ -1,7 +1,7 @@
 slides() {
     cd ..
     cd .. 
-    cd 'Presentación del proyecto'
-    pdflatex 'Presentación'.tex 
+    cd Presentación
+    pdflatex Presentación.tex 
 }
 slides
