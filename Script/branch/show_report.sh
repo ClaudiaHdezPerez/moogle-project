@@ -18,11 +18,11 @@ show_report() {
 
 while true 
 do
-echo "Do you want to use the default viewer? [y/n -> (yes/no)]"
+echo "Desea abrir el archivo con el visualizador por defecto? [S/n -> (sí/no)]"
 read a
 if [[ ! $a =~ ^["a"-"z"]+$ ]]
 then
-echo -e "You didn't select a valid token\n"
+echo -e "Opción no válida\n"
 elif [ $a = "y" ] 
 then 
 show_report
@@ -31,11 +31,11 @@ elif [ $a = "n" ]
 then
 while true
 do
-echo "Type the command to open the file wiewer that you want"
+echo "Escriba el comando correspondiente para abrir el archivo con el visualizador que desee"
 read b
 if [[ $b = "" ]]
 then
-echo -e "Try again\n"
+echo -e "Inténtelo de nuevo\n"
 else
 show_report $b
 break
@@ -43,6 +43,6 @@ fi
 done
 break
 else 
-echo -e "You didn't select a valid token\n"
+echo -e "Opción no válida\n"
 fi
 done

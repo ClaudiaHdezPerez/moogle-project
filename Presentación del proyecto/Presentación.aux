@@ -2,10 +2,13 @@
 \providecommand\hyper@newdestlabel[2]{}
 \providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
 \global\let\oldnewlabel\newlabel
 \gdef\newlabel#1#2{\newlabelxx{#1}#2}
 \gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
 \let\newlabel\oldnewlabel
 \fi}
 \fi}
@@ -13,7 +16,6 @@
 \gdef\HyperFirstAtBeginDocument#1{#1}
 \providecommand\HyField@AuxAddToFields[1]{}
 \providecommand\HyField@AuxAddToCoFields[2]{}
-\providecommand\babel@aux[2]{}
 \@nameuse{bbl@beforestart}
 \catcode `"\active 
 \catcode `<\active 
@@ -25,12 +27,11 @@
 \@writefile{nav}{\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}}
 \@writefile{nav}{\headcommand {\beamer@framepages {2}{2}}}
 \@input{Secciones/Introducción.aux}
-\@input{Secciones/Estructura de clases.aux}
-\@input{Secciones/Interfaz grafica.aux}
+\@input{Secciones/Estructura.aux}
+\@input{Secciones/Interfaz.aux}
 \@input{Secciones/Enlaces.aux}
-\@writefile{nav}{\headcommand {\beamer@partpages {1}{23}}}
-\@writefile{nav}{\headcommand {\beamer@subsectionpages {23}{23}}}
-\@writefile{nav}{\headcommand {\beamer@sectionpages {23}{23}}}
-\@writefile{nav}{\headcommand {\beamer@documentpages {23}}}
-\@writefile{nav}{\headcommand {\gdef \inserttotalframenumber {13}}}
-\gdef \@abspage@last{23}
+\@writefile{nav}{\headcommand {\beamer@partpages {1}{8}}}
+\@writefile{nav}{\headcommand {\beamer@subsectionpages {8}{8}}}
+\@writefile{nav}{\headcommand {\beamer@sectionpages {8}{8}}}
+\@writefile{nav}{\headcommand {\beamer@documentpages {8}}}
+\@writefile{nav}{\headcommand {\gdef \inserttotalframenumber {4}}}

@@ -18,8 +18,8 @@
 \begin{frame}
     \frametitle{Documents}
     Esta clase esta dirigida al trabajo con los documentos, se “normalizan”. Es decir, en caso de que las
-busquedas se realicen en espaol, se eliminan las tildes para evitar errores ortogr´aficos. Ademas, independientemente del idioma, se eliminan los signos de puntuacion y cualquier otro sımbolo ajeno al alfabeto 
-y los numeros
+búsquedas se realicen en español, se eliminan las tildes para evitar errores ortográficos. Además, independientemente del idioma, se eliminan los signos de puntuación y cualquier otro símbolo ajeno al alfabeto 
+y los números.
 
 \pause
 
@@ -29,8 +29,8 @@ y los numeros
 \end{frame}
 
 \begin{frame}{Process Documents}
-    Se encuentra ademas esta otra funcion para seleccionar el “snippet” (pedazo breve de un texto) que se 
-    imprimira en el momento de la busqueda por cada resultado.
+    Se encuentra además esta otra función para seleccionar el “snippet” (pedazo breve de un texto) que se 
+    imprimirá en el momento de la búsqueda por cada resultado.
 
 \pause
 
@@ -41,14 +41,14 @@ y los numeros
 
 \subsection{Matrix}
 \begin{frame}{Matrix}
-    El valor de “relevancia” de una palabra esta dado por el calculo de su TF (Term Frequency) por su IDF
-(Inverse Document Frequency), para ello se ha utilizado la formula:
+    El valor de “relevancia” de una palabra está dado por el cálculo de su TF (Term Frequency) por su IDF
+(Inverse Document Frequency), para ello se ha utilizado la fórmula:
 
 \begin{center}
 	$\frac{nd}{Cd} \cdot \log (\frac{T}{N})$ \\
 \end{center}
 
-Donde:
+Dónde:
 \
 
 \begin{itemize}
@@ -64,7 +64,7 @@ Donde:
 
 \subsection{Moogle}
 \begin{frame}{Moogle}
-    Esta es la clase principal del programa, donde comienza el proceso de busqueda. Comienza en el momento
+    Esta es la clase principal del programa, donde comienza el proceso de búsqueda. Comienza en el momento
 en que se recibe la query.
 
 \pause
@@ -81,7 +81,7 @@ valores.
 
 \
 
-El score queda de la siguiente manera: si la palabra esta contenida en el documento que se esta analizando se encontrara el valor de TF-IDF
+El score queda de la siguiente manera: si la palabra está contenida en el documento que se está analizando se encontrará el valor de TF-IDF
 correspondiente a esa palabra en ese documento, de forma contraria el valor sera 0.
 
 \end{frame}

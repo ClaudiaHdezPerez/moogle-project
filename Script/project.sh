@@ -1,11 +1,11 @@
 while  true 
 do
-    echo -e "Write down the number of the option you want: \n1 --> run \n2 --> report \n3 --> slides \n4 --> show_report \n5 --> show_slides \n6 --> clean \n7 --> exit" 
+    echo -e "Escoja una de las opciones siguientes con los números correspondientes: \n1 --> run \n2 --> report \n3 --> slides \n4 --> show_report \n5 --> show_slides \n6 --> clean \n7 --> exit" 
     read op
 
     if [[ ! $op =~ ^[0-9]+$ ]]
     then
-    echo "You did not select any of the given numbers"
+    echo "Opción no válida"
 
     elif [ $op -eq 1 ] 
     then 
@@ -36,7 +36,7 @@ do
     exit
 
     else
-    echo "You did not select any of the given numbers"
+    echo "Opción no válida"
 
     fi
     
