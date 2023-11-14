@@ -122,7 +122,7 @@ public static class Moogle
             string[] snippet = new string[items.Length];
 
             // Diccionario con el título del documento y la palabra con mayor valor de IDF en ese documento
-            Dictionary<string, string> WordMostImportant = new Dictionary<string, string>(); 
+            Dictionary<string, string> WordMostImportant = new(); 
 
             for (int i = 0; i < words.Keys.Count; i++) { // Ciclo para llenar el diccionario
                 WordMostImportant.Add(titles[i], arrQuery[indexquery[i]]);
@@ -143,7 +143,7 @@ public static class Moogle
 
             if (score.Length == 0) { // Si no hubo coincidencias 
                 Array.Resize(ref items, 1);
-                items[0] = new SearchItem("Búsqueda no encontrada", "intenta algo más", 0);
+                items[0] = new SearchItem("Input not find", "try again", 0);
             
             } else { // Llenar el array items con las coincidencias, su snippet y el score por documento
                 int k = 0;
@@ -161,7 +161,7 @@ public static class Moogle
             return new SearchResult(items, query);
         } else { // Si la búsqueda es vacía 
             SearchItem[] items = new SearchItem[1];
-            items[0] = new SearchItem("Búsqueda inválida", "intenta algo más", 0);
+            items[0] = new SearchItem("Invalid input", "try again", 0);
             return new SearchResult(items, query);
         }        
     }
